@@ -1,0 +1,50 @@
+html{
+    background: linear-gradient(to top,  #e3a8df 40% ,#e7e7a1 100%);
+    font-size: 20px;
+    
+}
+.TITLE{
+    text-align:center;
+    text-decoration:underline;
+    font-size:50px;
+    font-family: 'Consolas';
+}
+
+
+
+
+.super{
+    font-size:17px;
+    font-family: 'Arial';
+}
+
+
+
+.Contact{
+    text-align:left;
+    font-size:25px;
+    text-decoration:wavy underline;
+}
+.center{
+    text-align:center;
+    
+}
+.icon{
+    width:30px;
+    height:30px;
+    vertical-align: middle;
+
+}
+table{
+    background: linear-gradient(to top, #f4fa90 , #fcb69f);
+    height:300px;
+    width:300px;
+    
+    text-align: center;
+}
+form{
+    background-image:url("IMAGES/Purple_Sky_Theme_Aesthetic_Wallpaper_809fa80e-7b0b-4b3b-a244-36d10166f7b9_1024x.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
